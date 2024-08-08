@@ -7,4 +7,4 @@ In this Repo we will create differnet machine learning Models using kaggle Datas
  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4F?style=for-the-badge&logo=streamlit&logoColor=white&color=FF4B4F)
  ![Pickle](https://img.shields.io/badge/Pickle-FFA500?style=for-the-badge&logo=python&logoColor=white&color=FFA500)
  ![Numpy](https://img.shields.io/badge/Numpy-FFA500?style=for-the-badge&logo=python&logoColor=white&color=FFC500)
- ![Pandas](https://img.shields.io/badge/Pandas-ADD8E6?style=for-the-badge&logo=python&logoColor=white&color=FFC500)
+ ![Pandas](https://img.shields.io/badge/Pandas-1E90FF?style=for-the-badge&logo=python&logoColor=white&color=FFC500)
