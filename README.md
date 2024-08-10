@@ -11,3 +11,5 @@ In this Repo we will create differnet machine learning Models using kaggle Datas
 
 
 ## Weather Forecasting Model:
+In this project features data preprocessing (handling missing values, encoding, and scaling), feature engineering (creation and selection), and model training (using multiple machine learning models with hyperparameter tuning). It also includes data visualization and accurate weather forecasting based on historical data.<br>
+it will predict the Tomorrow Rain in the Dataset Format (0 or 1) using differnet algorithms with accuracy score.
