@@ -16,4 +16,4 @@ it will predict the Tomorrow Rain in the Dataset Format (0 or 1) using differnet
  **Python** &nbsp;&nbsp;&nbsp;&nbsp;  ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white&color=306998) <br>
  **Matplot** &nbsp;&nbsp;&nbsp;&nbsp;  ![matplot](https://img.shields.io/badge/matplot-306998?style=for-the-badge&logo=matplot&logoColor=white&color=90EE90)<br>
  **Numpy** &nbsp;&nbsp;&nbsp;&nbsp; ![Numpy](https://img.shields.io/badge/Numpy-FFA500?style=for-the-badge&logo=python&logoColor=white&color=FFC500)<br>
-**Jupyter Notebook** &nbsp;&nbsp;&nbsp;&nbsp; ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white&color=F37626) <br>
+ ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white&color=F37626) <br>
