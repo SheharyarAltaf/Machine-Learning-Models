@@ -19,7 +19,10 @@ it will predict the Tomorrow Rain in the Dataset Format (0 or 1) using differnet
  ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white&color=F37626) <br>
 
 # 3-Housing Price Prediction Model
- 
+ **Data Analysis:** Conducts EDA and feature engineering.
+**Modeling:** Compares models to identify the best.
+**Evaluation:** Assesses with MAE and R-squared.
+**Documentation:** Clear and organized for easy use.
 ## Installation
 
 To install the required dependencies, run the following command:
